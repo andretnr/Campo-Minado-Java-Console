@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="825ffc9a-0756-4d8a-ac13-e432a0899124" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="44" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="FieldTest" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cv9QX0XwcTObB5z2wEmGbSbZZE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.atnunes.campominado.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\atnunes\IdeaProjects\campominado\src\main" />
+      <recent name="C:\Users\atnunes\IdeaProjects\campominado\src\main\java\br\com\atnunes\campominado" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.app">
+    <configuration name="app" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.atnunes.campominado.app" />
+      <module name="campominado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.atnunes.campominado.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="campominado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.atnunes.campominado.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.atnunes.campominado.model" />
+      <option name="MAIN_CLASS_NAME" value="br.com.atnunes.campominado.model.FieldTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldTest.testStringChecked" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="campominado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.atnunes.campominado.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.atnunes.campominado.model" />
+      <option name="MAIN_CLASS_NAME" value="br.com.atnunes.campominado.model.FieldTest" />
+      <option name="METHOD_NAME" value="testStringChecked" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldTest.testStringOpen" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="campominado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.atnunes.campominado.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.atnunes.campominado.model" />
+      <option name="MAIN_CLASS_NAME" value="br.com.atnunes.campominado.model.FieldTest" />
+      <option name="METHOD_NAME" value="testStringOpen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldTest.testStringOpenAndNeighborhoodPumped" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="campominado" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.atnunes.campominado.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.atnunes.campominado.model" />
+      <option name="MAIN_CLASS_NAME" value="br.com.atnunes.campominado.model.FieldTest" />
+      <option name="METHOD_NAME" value="testStringOpenAndNeighborhoodPumped" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="JUnit" factoryName="JUnit">
+      <module name="campominado" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="825ffc9a-0756-4d8a-ac13-e432a0899124" name="Default Changelist" comment="" />
+      <created>1591398184131</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591398184131</updated>
+      <workItem from="1591398188327" duration="40374000" />
+      <workItem from="1591615490388" duration="12348000" />
+      <workItem from="1591635280861" duration="329000" />
+      <workItem from="1591635986563" duration="64000" />
+      <workItem from="1591637999504" duration="1590000" />
+      <workItem from="1591639811416" duration="2717000" />
+      <workItem from="1591657637311" duration="1654000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="51" key="#All_in_campominado" timestamp="1591398896743">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="255" y="51" key="#All_in_campominado/0.0.1304.768@0.0.1304.768" timestamp="1591398896743" />
+    <state x="255" y="64" key="#FieldTest" timestamp="1591400151698">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="255" y="64" key="#FieldTest/0.0.1304.768@0.0.1304.768" timestamp="1591400151698" />
+    <state x="255" y="52" key="#FieldTest_(1)" timestamp="1591399821942">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="255" y="52" key="#FieldTest_(1)/0.0.1304.768@0.0.1304.768" timestamp="1591399821942" />
+    <state x="244" y="45" key="#Project_Structure" timestamp="1591398618920">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="244" y="45" key="#Project_Structure/0.0.1304.768@0.0.1304.768" timestamp="1591398618920" />
+    <state x="106" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591642677219">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="106" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1304.768@0.0.1304.768" timestamp="1591642677219" />
+    <state x="92" y="92" width="1120" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1591572464748">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="92" y="92" width="1120" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1304.768@0.0.1304.768" timestamp="1591572464748" />
+    <state x="426" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591658242806">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="426" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1304.768@0.0.1304.768" timestamp="1591658242806" />
+    <state x="291" y="77" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1591658318938">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="291" y="77" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1304.768@0.0.1304.768" timestamp="1591658318938" />
+    <state x="457" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1591585002763">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="457" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1304.768@0.0.1304.768" timestamp="1591585002763" />
+    <state x="382" y="165" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1591398928352">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="382" y="165" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1304.768@0.0.1304.768" timestamp="1591398928352" />
+    <state x="414" y="247" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591658086628">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="414" y="247" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1304.768@0.0.1304.768" timestamp="1591658086628" />
+    <state x="432" y="80" key="FileChooserDialogImpl" timestamp="1591636047317">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="432" y="80" key="FileChooserDialogImpl/0.0.1304.768@0.0.1304.768" timestamp="1591636047317" />
+    <state x="478" y="301" key="Github.CreateGistDialog" timestamp="1591657973973">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="478" y="301" key="Github.CreateGistDialog/0.0.1304.768@0.0.1304.768" timestamp="1591657973973" />
+    <state width="909" height="194" key="GridCell.Tab.0.bottom" timestamp="1591658776206">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="909" height="194" key="GridCell.Tab.0.bottom/0.0.1304.768@0.0.1304.768" timestamp="1591658776206" />
+    <state width="909" height="194" key="GridCell.Tab.0.center" timestamp="1591658776205">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="909" height="194" key="GridCell.Tab.0.center/0.0.1304.768@0.0.1304.768" timestamp="1591658776205" />
+    <state width="909" height="194" key="GridCell.Tab.0.left" timestamp="1591658776205">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="909" height="194" key="GridCell.Tab.0.left/0.0.1304.768@0.0.1304.768" timestamp="1591658776205" />
+    <state width="909" height="194" key="GridCell.Tab.0.right" timestamp="1591658776205">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="909" height="194" key="GridCell.Tab.0.right/0.0.1304.768@0.0.1304.768" timestamp="1591658776205" />
+    <state width="1261" height="239" key="GridCell.Tab.1.bottom" timestamp="1591618177651">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.bottom/0.0.1304.768@0.0.1304.768" timestamp="1591618177651" />
+    <state width="1261" height="239" key="GridCell.Tab.1.center" timestamp="1591618177651">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.center/0.0.1304.768@0.0.1304.768" timestamp="1591618177651" />
+    <state width="1261" height="239" key="GridCell.Tab.1.left" timestamp="1591618177651">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.left/0.0.1304.768@0.0.1304.768" timestamp="1591618177651" />
+    <state width="1261" height="239" key="GridCell.Tab.1.right" timestamp="1591618177651">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.right/0.0.1304.768@0.0.1304.768" timestamp="1591618177651" />
+    <state x="155" y="29" key="SettingsEditor" timestamp="1591657839335">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="155" y="29" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1591657839335" />
+    <state x="360" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1591639830680">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="360" y="211" key="com.intellij.ide.util.TipDialog/0.0.1304.768@0.0.1304.768" timestamp="1591639830680" />
+    <state x="411" y="104" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591575051974">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="411" y="104" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1304.768@0.0.1304.768" timestamp="1591575051974" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>91</line>
+          <properties class="br.com.atnunes.campominado.model.Field" method="isOpen">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>83</line>
+          <properties class="br.com.atnunes.campominado.model.Field" method="isChecked">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>56</line>
+          <properties class="br.com.atnunes.campominado.model.Field" method="open">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Table.java</url>
+          <line>47</line>
+          <properties class="br.com.atnunes.campominado.model.Table" method="crateFields">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>113</line>
+          <properties class="br.com.atnunes.campominado.model.Field" method="neighborhoodPumped">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Table.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Table.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Table.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Table.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>130</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/atnunes/campominado/model/Field.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/campominado$FieldTest.ic" NAME="FieldTest Coverage Results" MODIFIED="1591643169534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.atnunes.campominado.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/campominado$app.ic" NAME="app Coverage Results" MODIFIED="1591658776023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.atnunes.campominado.*</FILTER>
+    </SUITE>
+  </component>
+</project>
